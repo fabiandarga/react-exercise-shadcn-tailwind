@@ -53,11 +53,11 @@ npx shadcn@latest init
 Für Dein Formular benötigst Du verschiedene Komponenten. Installiere sie mit folgenden Befehlen:
 
 ```bash
-npx shadcn-ui@latest add form
-npx shadcn-ui@latest add input
-npx shadcn-ui@latest add textarea
-npx shadcn-ui@latest add select
-npx shadcn-ui@latest add button
+npx shadcn@latest add form
+npx shadcn@latest add input
+npx shadcn@latest add textarea
+npx shadcn@latest add select
+npx shadcn@latest add button
 ```
 
 Diese Befehle fügen die entsprechenden Komponenten zu Deinem Projekt hinzu, und Du findest sie im Verzeichnis `components/ui`.
