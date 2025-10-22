@@ -37,7 +37,7 @@ Shadcn/ui ist keine typische npm-Bibliothek, sondern ein Sammelsurium von Kompon
 1. Falls Du shadcn/ui noch nicht eingerichtet hast, installiere es mit:
 
 ```bash
-npx shadcn-ui@latest init
+npx shadcn@latest init
 ```
 
 2. Bei der Einrichtung wähle Folgendes:
